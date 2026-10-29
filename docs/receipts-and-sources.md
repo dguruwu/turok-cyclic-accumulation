@@ -12,9 +12,9 @@
 > contraction that precedes a bounce to an expanding phase."
 
 Related (same program, fetched listing): *Inflation versus Cyclic Predictions for Spectral
-Tilt* (astro-ph/0302012), *Cosmic Perturbations Through the Cyclic Ages* (hep-th/0607164),
-*Why the cosmological constant is small and positive* (astro-ph/0605173), *Antigravity and
-the big crunch/big bang transition* (arXiv:1112.2470).
+Tilt* ([arXiv:astro-ph/0302012](https://arxiv.org/abs/astro-ph/0302012)), *Cosmic Perturbations Through the Cyclic Ages* ([arXiv:hep-th/0607164](https://arxiv.org/abs/hep-th/0607164)),
+*Why the cosmological constant is small and positive* ([arXiv:astro-ph/0605173](https://arxiv.org/abs/astro-ph/0605173)), *Antigravity and
+the big crunch/big bang transition* ([arXiv:arXiv:1112.2470](https://arxiv.org/abs/arXiv:1112.2470)).
 
 Fetched from the arXiv API on 2026-10-28. Quotes verbatim from the fetched abstracts.
 Our accumulation/record questions (00-START-HERE) are [EXTENSION] and not part of these
